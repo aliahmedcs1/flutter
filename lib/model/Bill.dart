@@ -60,11 +60,11 @@ class Bill {
     this._client_id=map["client_id"];
     this._money=map["money"];
     this._type = map['type'];
-  }
+  hjoitrihjhjthtrhththr;tlhrt
 
 
 //this comment added by ali for test git hub
 
-
+//this second comment added by ali for test git hub
 
 }
